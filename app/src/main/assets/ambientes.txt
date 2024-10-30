@@ -1,0 +1,5 @@
+# Formato: id, nombre, x1, y1, x2, y2, descripción, imagen_url
+1, Patio Simon Bolivar, 50, 50, 200, 200, "Lideró las campañas que dieron la independencia...", "monasterio"
+2, Room 1, 250, 50, 400, 200, "Descripción del Room 1", "ambiente1"
+3, Room 2, 50, 250, 200, 400, "Descripción del Room 2", "ambiente2"
+4, Room 3, 250, 250, 400, 400, "Descripción del Room 3", "ambiente3"
